@@ -1,1 +1,1 @@
-Hello everyone my name is Gaby, and this is the first time i'm making repo in cursor and push it to GitHub. For me as someone that doesn't anything about coding, it's hard, but I learn quicklt from my Computer Science friends and some of then watch the YT tutorial. So here we go!
+Hello everyone my name is Gaby, and this is the first time i'm making repo in cursor and push it to GitHub. For me as someone that doesn't anything about coding, it's hard, but I learn quicklt from my Computer Science friends and some of then watch the YT tutorial. So here we go! Excited 
